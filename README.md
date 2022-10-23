@@ -16,6 +16,8 @@ A collection of EVM related information. This is a repo that I created for mysel
 
 [EVM Puzzles: Use calldata, calvalues and opcodes to solve EVM challenges](https://github.com/fvictorio/evm-puzzles)
 
+[Diving into EVM](https://medium.com/@hayeah)
+
 
 
 <br>
